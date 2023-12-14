@@ -4,4 +4,6 @@ public class Demo {
 	int age;
 	String name;
 	int salary;
+	String state;
+	String model;
 }
