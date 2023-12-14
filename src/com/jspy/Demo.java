@@ -6,4 +6,5 @@ public class Demo {
 	int salary;
 	String state;
 	String model;
+	String village;
 }
